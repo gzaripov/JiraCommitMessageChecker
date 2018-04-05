@@ -1,0 +1,1355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="60a09ea2-4ef3-4cc1-85c9-3ae233df256c" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="plugin.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/META-INF/plugin.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Configuration.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gzaripov/conf/Configuration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConfigurationImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gzaripov/conf/impl/ConfigurationImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="48" lean-forward="false" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#870#871#0" expanded="true" />
+                <element signature="e#905#906#0" expanded="true" />
+                <element signature="e#964#965#0" expanded="true" />
+                <element signature="e#992#993#0" expanded="true" />
+                <element signature="e#1048#1049#0" expanded="true" />
+                <element signature="e#1082#1083#0" expanded="true" />
+                <element signature="e#1149#1150#0" expanded="true" />
+                <element signature="e#1204#1205#0" expanded="true" />
+                <element signature="e#1284#1285#0" expanded="true" />
+                <element signature="e#1342#1343#0" expanded="true" />
+                <element signature="e#1410#1411#0" expanded="true" />
+                <element signature="e#1466#1467#0" expanded="true" />
+                <element signature="e#1547#1548#0" expanded="true" />
+                <element signature="e#1606#1607#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ComponentStoreImpl.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/com/intellij/configurationStore/ComponentStoreImpl.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="975">
+              <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProjectImpl.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/com/intellij/openapi/project/impl/ProjectImpl.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5160">
+              <caret line="405" column="0" lean-forward="false" selection-start-line="405" selection-start-column="0" selection-end-line="405" selection-end-column="0" />
+              <folding>
+                <marker date="1514222008000" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1514222008000" expanded="false" signature="157:2509" ph="..." />
+                <marker date="1514222008000" expanded="true" signature="3222:3268" ph="{}" />
+                <marker date="1514222008000" expanded="true" signature="3302:3348" ph="{}" />
+                <marker date="1514222008000" expanded="false" signature="3378:3389" ph=" { " />
+                <marker date="1514222008000" expanded="false" signature="3403:3409" ph=" }" />
+                <marker date="1514222008000" expanded="false" signature="3456:3467" ph=" { " />
+                <marker date="1514222008000" expanded="false" signature="3481:3487" ph=" }" />
+                <marker date="1514222008000" expanded="false" signature="3524:3535" ph=" { " />
+                <marker date="1514222008000" expanded="false" signature="3549:3555" ph=" }" />
+                <marker date="1514222008000" expanded="true" signature="3610:4124" ph="{...}" />
+                <marker date="1514222008000" expanded="true" signature="3947:4017" ph="{}" />
+                <marker date="1514222008000" expanded="true" signature="4190:6441" ph="{...}" />
+                <marker date="1514222008000" expanded="true" signature="4837:6433" ph="{...}" />
+                <marker date="1514222008000" expanded="true" signature="4942:5543" ph="{...}" />
+                <marker date="1514222008000" expanded="false" signature="5588:5607" ph=" { " />
+                <marker date="1514222008000" expanded="false" signature="5636:5650" ph=" }" />
+                <marker date="1514222008000" expanded="false" signature="5705:5724" ph=" { " />
+                <marker date="1514222008000" expanded="false" signature="5769:5783" ph=" }" />
+                <marker date="1514222008000" expanded="true" signature="5915:5990" ph="{...}" />
+                <marker date="1514222008000" expanded="true" signature="6077:6131" ph="{...}" />
+                <marker date="1514222008000" expanded="true" signature="6182:6286" ph="{...}" />
+                <marker date="1514222008000" expanded="false" signature="6378:6397" ph=" { " />
+                <marker date="1514222008000" expanded="false" signature="6409:6423" ph=" }" />
+                <marker date="1514222008000" expanded="true" signature="6490:6765" ph="{...}" />
+                <marker date="1514222008000" expanded="false" signature="6794:6805" ph=" { " />
+                <marker date="1514222008000" expanded="false" signature="6867:6873" ph=" }" />
+                <marker date="1514222008000" expanded="true" signature="6910:6956" ph="{}" />
+                <marker date="1514222008000" expanded="true" signature="7072:7516" ph="{...}" />
+                <marker date="1514222008000" expanded="true" signature="7522:7554" ph="@{...}" />
+                <marker date="1514222008000" expanded="true" signature="7594:7928" ph="{...}" />
+                <marker date="1514222008000" expanded="true" signature="7970:8355" ph="{...}" />
+                <marker date="1514222008000" expanded="true" signature="8393:8778" ph="{...}" />
+                <marker date="1514222008000" expanded="true" signature="8784:8816" ph="@{...}" />
+                <marker date="1514222008000" expanded="true" signature="8849:9183" ph="{...}" />
+                <marker date="1514222008000" expanded="true" signature="9226:9272" ph="{}" />
+                <marker date="1514222008000" expanded="true" signature="9333:10006" ph="{...}" />
+                <marker date="1514222008000" expanded="true" signature="10012:10032" ph="@{...}" />
+                <marker date="1514222008000" expanded="true" signature="10069:10115" ph="{}" />
+                <marker date="1514222008000" expanded="true" signature="10173:10898" ph="{...}" />
+                <marker date="1514222008000" expanded="true" signature="10923:10969" ph="{}" />
+                <marker date="1514222008000" expanded="true" signature="11045:11746" ph="{...}" />
+                <marker date="1514222008000" expanded="true" signature="11769:11815" ph="{}" />
+                <marker date="1514222008000" expanded="true" signature="11840:12576" ph="{...}" />
+                <marker date="1514222008000" expanded="true" signature="12617:13994" ph="{...}" />
+                <marker date="1514222008000" expanded="true" signature="14079:14553" ph="{...}" />
+                <marker date="1514222008000" expanded="true" signature="14625:14919" ph="{...}" />
+                <marker date="1514222008000" expanded="false" signature="14951:14962" ph=" { " />
+                <marker date="1514222008000" expanded="false" signature="14975:14981" ph=" }" />
+                <marker date="1514222008000" expanded="true" signature="15024:16855" ph="{...}" />
+                <marker date="1514222008000" expanded="true" signature="16899:16945" ph="{}" />
+                <marker date="1514222008000" expanded="false" signature="17017:17028" ph=" { " />
+                <marker date="1514222008000" expanded="false" signature="17040:17046" ph=" }" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Storage.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$APPLICATION_HOME_DIR$/lib/openapi.jar!/com/intellij/openapi/components/Storage.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+              <folding>
+                <marker date="1514221688000" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1514221688000" expanded="false" signature="155:272" ph="..." />
+                <marker date="1514221688000" expanded="true" signature="342:360" ph="/**...*/" />
+                <marker date="1514221688000" expanded="true" signature="718:736" ph="/**...*/" />
+                <marker date="1514221688000" expanded="true" signature="816:834" ph="/**...*/" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PersistentStateComponent.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$APPLICATION_HOME_DIR$/lib/openapi.jar!/com/intellij/openapi/components/PersistentStateComponent.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+              <folding>
+                <marker date="1514221688000" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1514221688000" expanded="true" signature="334:341" ph="{}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AutoAppendIssueCheckinHandlerFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gzaripov/AutoAppendIssueCheckinHandlerFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IssueAutoAppender.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gzaripov/IssueAutoAppender.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="15" column="48" lean-forward="false" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#511#512#0" expanded="true" />
+                <element signature="e#545#546#0" expanded="true" />
+                <element signature="e#1438#1439#0" expanded="true" />
+                <element signature="e#1513#1514#0" expanded="true" />
+                <element signature="e#1577#1578#0" expanded="true" />
+                <element signature="e#1658#1659#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CommitMessageCheckinHandlerFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gzaripov/CommitMessageCheckinHandlerFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IssueReferenceChecker.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gzaripov/IssueReferenceChecker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1155">
+              <caret line="93" column="48" lean-forward="false" selection-start-line="93" selection-start-column="48" selection-end-line="93" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#670#671#0" expanded="true" />
+                <element signature="e#704#705#0" expanded="true" />
+                <element signature="e#1528#1529#0" expanded="true" />
+                <element signature="e#1602#1603#0" expanded="true" />
+                <element signature="e#1666#1667#0" expanded="true" />
+                <element signature="e#1746#1747#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IssueLinkHtmlRenderer.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/com/intellij/openapi/vcs/changes/issueLinks/IssueLinkHtmlRenderer.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="30" column="66" lean-forward="false" selection-start-line="30" selection-start-column="66" selection-end-line="30" selection-end-column="66" />
+              <folding>
+                <marker date="1514222008000" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1514222008000" expanded="false" signature="167:609" ph="..." />
+                <marker date="1514222008000" expanded="true" signature="684:691" ph="{}" />
+                <marker date="1514222008000" expanded="true" signature="764:927" ph="{...}" />
+                <marker date="1514222008000" expanded="true" signature="1033:2042" ph="{...}" />
+                <marker date="1514222008000" expanded="true" signature="2116:2187" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Convertor.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$APPLICATION_HOME_DIR$/lib/util.jar!/com/intellij/util/containers/Convertor.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+              <folding>
+                <marker date="1514221686000" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1514221686000" expanded="true" signature="338:452" ph="{...}" />
+                <marker date="1514221686000" expanded="true" signature="366:377" ph="{}" />
+                <marker date="1514221686000" expanded="false" signature="412:427" ph=" { " />
+                <marker date="1514221686000" expanded="false" signature="436:446" ph=" }" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="State.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$APPLICATION_HOME_DIR$/lib/openapi.jar!/com/intellij/openapi/components/State.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+              <folding>
+                <marker date="1514221688000" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1514221688000" expanded="false" signature="155:272" ph="..." />
+                <marker date="1514221688000" expanded="true" signature="743:790" ph="{...}" />
+                <marker date="1514221688000" expanded="true" signature="773:784" ph="{}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VcsConfiguration.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$APPLICATION_HOME_DIR$/lib/openapi.jar!/com/intellij/openapi/vcs/VcsConfiguration.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2775">
+              <caret line="227" column="37" lean-forward="false" selection-start-line="227" selection-start-column="37" selection-end-line="227" selection-end-column="37" />
+              <folding>
+                <marker date="1514221688000" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1514221688000" expanded="false" signature="148:1336" ph="..." />
+                <marker date="1514221688000" expanded="true" signature="1338:1431" ph="@{...}" />
+                <marker date="1514221688000" expanded="true" signature="2532:2619" ph="@{...}" />
+                <marker date="1514221688000" expanded="true" signature="2675:2765" ph="@{...}" />
+                <marker date="1514221688000" expanded="true" signature="3667:3780" ph="@{...}" />
+                <marker date="1514221688000" expanded="true" signature="3930:4114" ph="@{...}" />
+                <marker date="1514221688000" expanded="true" signature="5100:7314" ph="{...}" />
+                <marker date="1514221688000" expanded="false" signature="7354:7365" ph=" { " />
+                <marker date="1514221688000" expanded="false" signature="7377:7383" ph=" }" />
+                <marker date="1514221688000" expanded="false" signature="7434:7445" ph=" { " />
+                <marker date="1514221688000" expanded="false" signature="7485:7491" ph=" }" />
+                <marker date="1514221688000" expanded="true" signature="7566:7742" ph="{...}" />
+                <marker date="1514221688000" expanded="true" signature="7794:8147" ph="{...}" />
+                <marker date="1514221688000" expanded="true" signature="8198:8342" ph="{...}" />
+                <marker date="1514221688000" expanded="true" signature="8406:8586" ph="{...}" />
+                <marker date="1514221688000" expanded="false" signature="8633:8644" ph=" { " />
+                <marker date="1514221688000" expanded="false" signature="8686:8692" ph=" }" />
+                <marker date="1514221688000" expanded="false" signature="8748:8759" ph=" { " />
+                <marker date="1514221688000" expanded="false" signature="8786:8792" ph=" }" />
+                <marker date="1514221688000" expanded="false" signature="8848:8859" ph=" { " />
+                <marker date="1514221688000" expanded="false" signature="8886:8892" ph=" }" />
+                <marker date="1514221688000" expanded="false" signature="8946:8957" ph=" { " />
+                <marker date="1514221688000" expanded="false" signature="8982:8988" ph=" }" />
+                <marker date="1514221688000" expanded="false" signature="9046:9057" ph=" { " />
+                <marker date="1514221688000" expanded="false" signature="9086:9092" ph=" }" />
+                <marker date="1514221688000" expanded="true" signature="9151:9162" ph=" { " />
+                <marker date="1514221688000" expanded="true" signature="9192:9198" ph=" }" />
+                <marker date="1514221688000" expanded="false" signature="9241:9252" ph=" { " />
+                <marker date="1514221688000" expanded="false" signature="9288:9294" ph=" }" />
+                <marker date="1514221688000" expanded="true" signature="9354:9680" ph="{...}" />
+                <marker date="1514221688000" expanded="false" signature="9727:9738" ph=" { " />
+                <marker date="1514221688000" expanded="false" signature="9796:9802" ph=" }" />
+                <marker date="1514221688000" expanded="true" signature="9883:10359" ph="{...}" />
+                <marker date="1514221688000" expanded="true" signature="10447:10722" ph="{...}" />
+                <marker date="1514221688000" expanded="true" signature="10791:10934" ph="{...}" />
+                <marker date="1514221688000" expanded="true" signature="11019:11355" ph="{...}" />
+                <marker date="1514221688000" expanded="true" signature="11067:11078" ph="{}" />
+                <marker date="1514221688000" expanded="false" signature="11128:11143" ph=" { " />
+                <marker date="1514221688000" expanded="false" signature="11205:11215" ph=" }" />
+                <marker date="1514221688000" expanded="false" signature="11262:11277" ph=" { " />
+                <marker date="1514221688000" expanded="false" signature="11339:11349" ph=" }" />
+                <marker date="1514221688000" expanded="true" signature="11439:11770" ph="{...}" />
+                <marker date="1514221688000" expanded="true" signature="11486:11497" ph="{}" />
+                <marker date="1514221688000" expanded="false" signature="11547:11562" ph=" { " />
+                <marker date="1514221688000" expanded="false" signature="11622:11632" ph=" }" />
+                <marker date="1514221688000" expanded="false" signature="11679:11694" ph=" { " />
+                <marker date="1514221688000" expanded="false" signature="11754:11764" ph=" }" />
+                <marker date="1514221688000" expanded="true" signature="11850:12169" ph="{...}" />
+                <marker date="1514221688000" expanded="true" signature="11893:11904" ph="{}" />
+                <marker date="1514221688000" expanded="false" signature="11954:11969" ph=" { " />
+                <marker date="1514221688000" expanded="false" signature="12025:12035" ph=" }" />
+                <marker date="1514221688000" expanded="false" signature="12082:12097" ph=" { " />
+                <marker date="1514221688000" expanded="false" signature="12153:12163" ph=" }" />
+                <marker date="1514221688000" expanded="true" signature="12251:12446" ph="{...}" />
+                <marker date="1514221688000" expanded="true" signature="12296:12307" ph="{}" />
+                <marker date="1514221688000" expanded="false" signature="12357:12372" ph=" { " />
+                <marker date="1514221688000" expanded="false" signature="12430:12440" ph=" }" />
+                <marker date="1514221688000" expanded="true" signature="12528:12723" ph="{...}" />
+                <marker date="1514221688000" expanded="true" signature="12573:12584" ph="{}" />
+                <marker date="1514221688000" expanded="false" signature="12634:12649" ph=" { " />
+                <marker date="1514221688000" expanded="false" signature="12707:12717" ph=" }" />
+                <marker date="1514221688000" expanded="true" signature="12769:13122" ph="{...}" />
+                <marker date="1514221688000" expanded="false" signature="13003:13018" ph=" { " />
+                <marker date="1514221688000" expanded="false" signature="13033:13043" ph=" }" />
+                <marker date="1514221688000" expanded="false" signature="13074:13089" ph=" { " />
+                <marker date="1514221688000" expanded="false" signature="13106:13116" ph=" }" />
+                <marker date="1514221688000" expanded="true" signature="13162:13817" ph="{...}" />
+                <marker date="1514221688000" expanded="false" signature="13698:13713" ph=" { " />
+                <marker date="1514221688000" expanded="false" signature="13728:13738" ph=" }" />
+                <marker date="1514221688000" expanded="false" signature="13769:13784" ph=" { " />
+                <marker date="1514221688000" expanded="false" signature="13801:13811" ph=" }" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Project.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$APPLICATION_HOME_DIR$/lib/openapi.jar!/com/intellij/openapi/project/Project.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+              <folding>
+                <marker date="1514221688000" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1514221688000" expanded="false" signature="152:486" ph="..." />
+                <marker date="1514221688000" expanded="true" signature="671:703" ph="@{...}" />
+                <marker date="1514221688000" expanded="true" signature="784:816" ph="@{...}" />
+                <marker date="1514221688000" expanded="true" signature="855:885" ph="@{...}" />
+                <marker date="1514221688000" expanded="false" signature="924:935" ph=" { " />
+                <marker date="1514221688000" expanded="false" signature="947:953" ph=" }" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PropertiesComponent.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$APPLICATION_HOME_DIR$/lib/openapi.jar!/com/intellij/ide/util/PropertiesComponent.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="50" column="38" lean-forward="false" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
+              <folding>
+                <marker date="1514221688000" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1514221688000" expanded="false" signature="145:485" ph="..." />
+                <marker date="1514221688000" expanded="true" signature="564:571" ph="{}" />
+                <marker date="1514221688000" expanded="true" signature="1164:1287" ph="{...}" />
+                <marker date="1514221688000" expanded="true" signature="1591:1697" ph="{...}" />
+                <marker date="1514221688000" expanded="true" signature="1751:1848" ph="{...}" />
+                <marker date="1514221688000" expanded="false" signature="1907:1918" ph=" { " />
+                <marker date="1514221688000" expanded="false" signature="1962:1968" ph=" }" />
+                <marker date="1514221688000" expanded="true" signature="2050:2208" ph="{...}" />
+                <marker date="1514221688000" expanded="true" signature="2268:2393" ph="{...}" />
+                <marker date="1514221688000" expanded="true" signature="2486:2977" ph="{...}" />
+                <marker date="1514221688000" expanded="true" signature="2983:3001" ph="/**...*/" />
+                <marker date="1514221688000" expanded="true" signature="3092:3220" ph="{...}" />
+                <marker date="1514221688000" expanded="true" signature="3284:3437" ph="{...}" />
+                <marker date="1514221688000" expanded="true" signature="3515:3747" ph="{...}" />
+                <marker date="1514221688000" expanded="true" signature="3753:3771" ph="/**...*/" />
+                <marker date="1514221688000" expanded="true" signature="3858:4050" ph="{...}" />
+                <marker date="1514221688000" expanded="true" signature="4112:4860" ph="{...}" />
+                <marker date="1514221688000" expanded="true" signature="4922:8127" ph="{...}" />
+                <marker date="1514221688000" expanded="true" signature="8188:8435" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CurrentBranchExtractor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gzaripov/CurrentBranchExtractor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#277#278#0" expanded="true" />
+                <element signature="e#315#316#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IssueMatcher.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gzaripov/IssueMatcher.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="41" column="5" lean-forward="false" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="ApplicationServiceInterface" />
+        <option value="ApplicationServiceImplementation" />
+        <option value="ProjectServiceInterface" />
+        <option value="ProjectServiceImplementation" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Commit message history</find>
+      <find>action.Vcs.ShowMessageHistory.text</find>
+      <find>commit</find>
+      <find>Me</find>
+      <find>vcs</find>
+      <find>MessageActionGroup</find>
+      <find>ShowMessageHistoryAction</find>
+      <find>diff.comm</find>
+      <find>Commit Message</find>
+      <find>label.selected.revision.commit.message</find>
+      <find>checkbox.checkin.options.reformat.code</find>
+      <find>Reformat code</find>
+      <find>before.checkin.standard.options.check</find>
+      <find>JCheckBox</find>
+      <find>IssueLinkHtmlRenderer.forma</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/gzaripov/CommitMessageCheckinHandlerFactory.java" />
+        <option value="$PROJECT_DIR$/src/gzaripov/AutoAppendIssueCheckinHandlerFactory.java" />
+        <option value="$PROJECT_DIR$/src/gzaripov/IssueMatcher.java" />
+        <option value="$PROJECT_DIR$/src/gzaripov/CurrentBranchExtractor.java" />
+        <option value="$PROJECT_DIR$/src/gzaripov/impl/ConfigurationImpl.java" />
+        <option value="$PROJECT_DIR$/src/gzaripov/conf/PluginData.java" />
+        <option value="$PROJECT_DIR$/src/gzaripov/conf/Configuration.java" />
+        <option value="$PROJECT_DIR$/src/gzaripov/IssueAutoAppender.java" />
+        <option value="$PROJECT_DIR$/src/gzaripov/conf/impl/ConfigurationImpl.java" />
+        <option value="$PROJECT_DIR$/src/gzaripov/IssueReferenceChecker.java" />
+        <option value="$PROJECT_DIR$/resources/META-INF/plugin.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JiraCommitMessageChecker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JiraCommitMessageChecker" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JiraCommitMessageChecker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JiraCommitMessageChecker" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JiraCommitMessageChecker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JiraCommitMessageChecker" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JiraCommitMessageChecker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JiraCommitMessageChecker" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JiraCommitMessageChecker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JiraCommitMessageChecker" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="gzaripov" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JiraCommitMessageChecker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JiraCommitMessageChecker" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="gzaripov" type="462c0819:PsiDirectoryNode" />
+              <item name="conf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JiraCommitMessageChecker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JiraCommitMessageChecker" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="gzaripov" type="462c0819:PsiDirectoryNode" />
+              <item name="conf" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JiraCommitMessageChecker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="JiraCommitMessageChecker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; IntelliJ IDEA IU-173.4127.27 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="JiraCommitMessageChecker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; IntelliJ IDEA IU-173.4127.27 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="openapi.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JiraCommitMessageChecker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; IntelliJ IDEA IU-173.4127.27 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="openapi.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JiraCommitMessageChecker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; IntelliJ IDEA IU-173.4127.27 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="openapi.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="intellij" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JiraCommitMessageChecker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; IntelliJ IDEA IU-173.4127.27 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="openapi.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="intellij" type="462c0819:PsiDirectoryNode" />
+              <item name="openapi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JiraCommitMessageChecker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; IntelliJ IDEA IU-173.4127.27 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="openapi.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="intellij" type="462c0819:PsiDirectoryNode" />
+              <item name="openapi" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JiraCommitMessageChecker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; IntelliJ IDEA IU-173.4127.27 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="openapi.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="intellij" type="462c0819:PsiDirectoryNode" />
+              <item name="openapi" type="462c0819:PsiDirectoryNode" />
+              <item name="vcs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JiraCommitMessageChecker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; IntelliJ IDEA IU-173.4127.27 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="openapi.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="intellij" type="462c0819:PsiDirectoryNode" />
+              <item name="openapi" type="462c0819:PsiDirectoryNode" />
+              <item name="vcs" type="462c0819:PsiDirectoryNode" />
+              <item name="checkin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JiraCommitMessageChecker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; IntelliJ IDEA IU-173.4127.27 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="openapi.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="intellij" type="462c0819:PsiDirectoryNode" />
+              <item name="openapi" type="462c0819:PsiDirectoryNode" />
+              <item name="vcs" type="462c0819:PsiDirectoryNode" />
+              <item name="checkout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JiraCommitMessageChecker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; IntelliJ IDEA IU-173.4127.27 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="openapi.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="intellij" type="462c0819:PsiDirectoryNode" />
+              <item name="openapi" type="462c0819:PsiDirectoryNode" />
+              <item name="vcs" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="gzaripov" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="Plugin" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="JiraCommitMessageChecker" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="JiraCommitMessageChecker" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60a09ea2-4ef3-4cc1-85c9-3ae233df256c" name="Default" comment="" />
+      <created>1515698825767</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1515698825767</updated>
+      <workItem from="1515698833439" duration="7308000" />
+      <workItem from="1515748696782" duration="7265000" />
+      <workItem from="1515762882119" duration="4273000" />
+      <workItem from="1515770253789" duration="528000" />
+      <workItem from="1515770811215" duration="289000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="19663000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Key Promoter X" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39903265" sideWeight="0.50572246" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2639485" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39903265" sideWeight="0.49427754" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.49713877" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/com/intellij/openapi/vcs/changes/ui/CommitChangeListDialog.class</url>
+          <line>156</line>
+          <properties class="com.intellij.openapi.vcs.changes.ui.CommitChangeListDialog" method="getComponent">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/gzaripov/conf/impl/ConfigurationImpl.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="39" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>IssueLinkHtmlRenderer.formatTextWithLinks(project, &quot;Some text&quot;);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>IssueLinkHtmlRenderer.formatTextIntoHtml(project, &quot;Some text&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>((JCheckBox)((ChangeEvent) e).source).isSelected()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>((JCheckBox)((ChangeEvent) e).source).is</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>isAutoAppendEnabled()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>&quot;asd&quot;.split(&quot;-&quot;);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>&quot;&quot;.split(&quot;-&quot;);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>configuration</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/openapi.jar!/com/intellij/openapi/vcs/ui/package.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="71" lean-forward="true" selection-start-line="12" selection-start-column="71" selection-end-line="12" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/openapi.jar!/com/intellij/openapi/vcs/checkin/BeforeCheckinDialogHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="36" column="76" lean-forward="false" selection-start-line="36" selection-start-column="63" selection-end-line="36" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/openapi.jar!/com/intellij/openapi/vcs/checkin/StepIntersection.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gzaripov/impl/DataImpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/gzaripov/conf/check.prop" />
+    <entry file="file://$PROJECT_DIR$/src/gzaripov/Data.java" />
+    <entry file="file://$PROJECT_DIR$/src/gzaripov/conf/PluginData.java" />
+    <entry file="file://$PROJECT_DIR$/resources/META-INF/plugin.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gzaripov/conf/Configuration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gzaripov/conf/impl/ConfigurationImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="48" lean-forward="false" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#870#871#0" expanded="true" />
+            <element signature="e#905#906#0" expanded="true" />
+            <element signature="e#964#965#0" expanded="true" />
+            <element signature="e#992#993#0" expanded="true" />
+            <element signature="e#1048#1049#0" expanded="true" />
+            <element signature="e#1082#1083#0" expanded="true" />
+            <element signature="e#1149#1150#0" expanded="true" />
+            <element signature="e#1204#1205#0" expanded="true" />
+            <element signature="e#1284#1285#0" expanded="true" />
+            <element signature="e#1342#1343#0" expanded="true" />
+            <element signature="e#1410#1411#0" expanded="true" />
+            <element signature="e#1466#1467#0" expanded="true" />
+            <element signature="e#1547#1548#0" expanded="true" />
+            <element signature="e#1606#1607#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/com/intellij/configurationStore/ComponentStoreImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/com/intellij/openapi/project/impl/ProjectImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5160">
+          <caret line="405" column="0" lean-forward="false" selection-start-line="405" selection-start-column="0" selection-end-line="405" selection-end-column="0" />
+          <folding>
+            <marker date="1514222008000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1514222008000" expanded="false" signature="157:2509" ph="..." />
+            <marker date="1514222008000" expanded="true" signature="3222:3268" ph="{}" />
+            <marker date="1514222008000" expanded="true" signature="3302:3348" ph="{}" />
+            <marker date="1514222008000" expanded="false" signature="3378:3389" ph=" { " />
+            <marker date="1514222008000" expanded="false" signature="3403:3409" ph=" }" />
+            <marker date="1514222008000" expanded="false" signature="3456:3467" ph=" { " />
+            <marker date="1514222008000" expanded="false" signature="3481:3487" ph=" }" />
+            <marker date="1514222008000" expanded="false" signature="3524:3535" ph=" { " />
+            <marker date="1514222008000" expanded="false" signature="3549:3555" ph=" }" />
+            <marker date="1514222008000" expanded="true" signature="3610:4124" ph="{...}" />
+            <marker date="1514222008000" expanded="true" signature="3947:4017" ph="{}" />
+            <marker date="1514222008000" expanded="true" signature="4190:6441" ph="{...}" />
+            <marker date="1514222008000" expanded="true" signature="4837:6433" ph="{...}" />
+            <marker date="1514222008000" expanded="true" signature="4942:5543" ph="{...}" />
+            <marker date="1514222008000" expanded="false" signature="5588:5607" ph=" { " />
+            <marker date="1514222008000" expanded="false" signature="5636:5650" ph=" }" />
+            <marker date="1514222008000" expanded="false" signature="5705:5724" ph=" { " />
+            <marker date="1514222008000" expanded="false" signature="5769:5783" ph=" }" />
+            <marker date="1514222008000" expanded="true" signature="5915:5990" ph="{...}" />
+            <marker date="1514222008000" expanded="true" signature="6077:6131" ph="{...}" />
+            <marker date="1514222008000" expanded="true" signature="6182:6286" ph="{...}" />
+            <marker date="1514222008000" expanded="false" signature="6378:6397" ph=" { " />
+            <marker date="1514222008000" expanded="false" signature="6409:6423" ph=" }" />
+            <marker date="1514222008000" expanded="true" signature="6490:6765" ph="{...}" />
+            <marker date="1514222008000" expanded="false" signature="6794:6805" ph=" { " />
+            <marker date="1514222008000" expanded="false" signature="6867:6873" ph=" }" />
+            <marker date="1514222008000" expanded="true" signature="6910:6956" ph="{}" />
+            <marker date="1514222008000" expanded="true" signature="7072:7516" ph="{...}" />
+            <marker date="1514222008000" expanded="true" signature="7522:7554" ph="@{...}" />
+            <marker date="1514222008000" expanded="true" signature="7594:7928" ph="{...}" />
+            <marker date="1514222008000" expanded="true" signature="7970:8355" ph="{...}" />
+            <marker date="1514222008000" expanded="true" signature="8393:8778" ph="{...}" />
+            <marker date="1514222008000" expanded="true" signature="8784:8816" ph="@{...}" />
+            <marker date="1514222008000" expanded="true" signature="8849:9183" ph="{...}" />
+            <marker date="1514222008000" expanded="true" signature="9226:9272" ph="{}" />
+            <marker date="1514222008000" expanded="true" signature="9333:10006" ph="{...}" />
+            <marker date="1514222008000" expanded="true" signature="10012:10032" ph="@{...}" />
+            <marker date="1514222008000" expanded="true" signature="10069:10115" ph="{}" />
+            <marker date="1514222008000" expanded="true" signature="10173:10898" ph="{...}" />
+            <marker date="1514222008000" expanded="true" signature="10923:10969" ph="{}" />
+            <marker date="1514222008000" expanded="true" signature="11045:11746" ph="{...}" />
+            <marker date="1514222008000" expanded="true" signature="11769:11815" ph="{}" />
+            <marker date="1514222008000" expanded="true" signature="11840:12576" ph="{...}" />
+            <marker date="1514222008000" expanded="true" signature="12617:13994" ph="{...}" />
+            <marker date="1514222008000" expanded="true" signature="14079:14553" ph="{...}" />
+            <marker date="1514222008000" expanded="true" signature="14625:14919" ph="{...}" />
+            <marker date="1514222008000" expanded="false" signature="14951:14962" ph=" { " />
+            <marker date="1514222008000" expanded="false" signature="14975:14981" ph=" }" />
+            <marker date="1514222008000" expanded="true" signature="15024:16855" ph="{...}" />
+            <marker date="1514222008000" expanded="true" signature="16899:16945" ph="{}" />
+            <marker date="1514222008000" expanded="false" signature="17017:17028" ph=" { " />
+            <marker date="1514222008000" expanded="false" signature="17040:17046" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/openapi.jar!/com/intellij/openapi/components/Storage.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding>
+            <marker date="1514221688000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1514221688000" expanded="false" signature="155:272" ph="..." />
+            <marker date="1514221688000" expanded="true" signature="342:360" ph="/**...*/" />
+            <marker date="1514221688000" expanded="true" signature="718:736" ph="/**...*/" />
+            <marker date="1514221688000" expanded="true" signature="816:834" ph="/**...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/openapi.jar!/com/intellij/openapi/components/PersistentStateComponent.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <folding>
+            <marker date="1514221688000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1514221688000" expanded="true" signature="334:341" ph="{}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gzaripov/AutoAppendIssueCheckinHandlerFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gzaripov/IssueAutoAppender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="15" column="48" lean-forward="false" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#511#512#0" expanded="true" />
+            <element signature="e#545#546#0" expanded="true" />
+            <element signature="e#1438#1439#0" expanded="true" />
+            <element signature="e#1513#1514#0" expanded="true" />
+            <element signature="e#1577#1578#0" expanded="true" />
+            <element signature="e#1658#1659#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gzaripov/CommitMessageCheckinHandlerFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gzaripov/IssueReferenceChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1155">
+          <caret line="93" column="48" lean-forward="false" selection-start-line="93" selection-start-column="48" selection-end-line="93" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#670#671#0" expanded="true" />
+            <element signature="e#704#705#0" expanded="true" />
+            <element signature="e#1528#1529#0" expanded="true" />
+            <element signature="e#1602#1603#0" expanded="true" />
+            <element signature="e#1666#1667#0" expanded="true" />
+            <element signature="e#1746#1747#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/com/intellij/openapi/vcs/changes/issueLinks/IssueLinkHtmlRenderer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="30" column="66" lean-forward="false" selection-start-line="30" selection-start-column="66" selection-end-line="30" selection-end-column="66" />
+          <folding>
+            <marker date="1514222008000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1514222008000" expanded="false" signature="167:609" ph="..." />
+            <marker date="1514222008000" expanded="true" signature="684:691" ph="{}" />
+            <marker date="1514222008000" expanded="true" signature="764:927" ph="{...}" />
+            <marker date="1514222008000" expanded="true" signature="1033:2042" ph="{...}" />
+            <marker date="1514222008000" expanded="true" signature="2116:2187" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/util.jar!/com/intellij/util/containers/Convertor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding>
+            <marker date="1514221686000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1514221686000" expanded="true" signature="338:452" ph="{...}" />
+            <marker date="1514221686000" expanded="true" signature="366:377" ph="{}" />
+            <marker date="1514221686000" expanded="false" signature="412:427" ph=" { " />
+            <marker date="1514221686000" expanded="false" signature="436:446" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/openapi.jar!/com/intellij/openapi/components/State.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding>
+            <marker date="1514221688000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1514221688000" expanded="false" signature="155:272" ph="..." />
+            <marker date="1514221688000" expanded="true" signature="743:790" ph="{...}" />
+            <marker date="1514221688000" expanded="true" signature="773:784" ph="{}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/openapi.jar!/com/intellij/openapi/vcs/VcsConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2775">
+          <caret line="227" column="37" lean-forward="false" selection-start-line="227" selection-start-column="37" selection-end-line="227" selection-end-column="37" />
+          <folding>
+            <marker date="1514221688000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1514221688000" expanded="false" signature="148:1336" ph="..." />
+            <marker date="1514221688000" expanded="true" signature="1338:1431" ph="@{...}" />
+            <marker date="1514221688000" expanded="true" signature="2532:2619" ph="@{...}" />
+            <marker date="1514221688000" expanded="true" signature="2675:2765" ph="@{...}" />
+            <marker date="1514221688000" expanded="true" signature="3667:3780" ph="@{...}" />
+            <marker date="1514221688000" expanded="true" signature="3930:4114" ph="@{...}" />
+            <marker date="1514221688000" expanded="true" signature="5100:7314" ph="{...}" />
+            <marker date="1514221688000" expanded="false" signature="7354:7365" ph=" { " />
+            <marker date="1514221688000" expanded="false" signature="7377:7383" ph=" }" />
+            <marker date="1514221688000" expanded="false" signature="7434:7445" ph=" { " />
+            <marker date="1514221688000" expanded="false" signature="7485:7491" ph=" }" />
+            <marker date="1514221688000" expanded="true" signature="7566:7742" ph="{...}" />
+            <marker date="1514221688000" expanded="true" signature="7794:8147" ph="{...}" />
+            <marker date="1514221688000" expanded="true" signature="8198:8342" ph="{...}" />
+            <marker date="1514221688000" expanded="true" signature="8406:8586" ph="{...}" />
+            <marker date="1514221688000" expanded="false" signature="8633:8644" ph=" { " />
+            <marker date="1514221688000" expanded="false" signature="8686:8692" ph=" }" />
+            <marker date="1514221688000" expanded="false" signature="8748:8759" ph=" { " />
+            <marker date="1514221688000" expanded="false" signature="8786:8792" ph=" }" />
+            <marker date="1514221688000" expanded="false" signature="8848:8859" ph=" { " />
+            <marker date="1514221688000" expanded="false" signature="8886:8892" ph=" }" />
+            <marker date="1514221688000" expanded="false" signature="8946:8957" ph=" { " />
+            <marker date="1514221688000" expanded="false" signature="8982:8988" ph=" }" />
+            <marker date="1514221688000" expanded="false" signature="9046:9057" ph=" { " />
+            <marker date="1514221688000" expanded="false" signature="9086:9092" ph=" }" />
+            <marker date="1514221688000" expanded="true" signature="9151:9162" ph=" { " />
+            <marker date="1514221688000" expanded="true" signature="9192:9198" ph=" }" />
+            <marker date="1514221688000" expanded="false" signature="9241:9252" ph=" { " />
+            <marker date="1514221688000" expanded="false" signature="9288:9294" ph=" }" />
+            <marker date="1514221688000" expanded="true" signature="9354:9680" ph="{...}" />
+            <marker date="1514221688000" expanded="false" signature="9727:9738" ph=" { " />
+            <marker date="1514221688000" expanded="false" signature="9796:9802" ph=" }" />
+            <marker date="1514221688000" expanded="true" signature="9883:10359" ph="{...}" />
+            <marker date="1514221688000" expanded="true" signature="10447:10722" ph="{...}" />
+            <marker date="1514221688000" expanded="true" signature="10791:10934" ph="{...}" />
+            <marker date="1514221688000" expanded="true" signature="11019:11355" ph="{...}" />
+            <marker date="1514221688000" expanded="true" signature="11067:11078" ph="{}" />
+            <marker date="1514221688000" expanded="false" signature="11128:11143" ph=" { " />
+            <marker date="1514221688000" expanded="false" signature="11205:11215" ph=" }" />
+            <marker date="1514221688000" expanded="false" signature="11262:11277" ph=" { " />
+            <marker date="1514221688000" expanded="false" signature="11339:11349" ph=" }" />
+            <marker date="1514221688000" expanded="true" signature="11439:11770" ph="{...}" />
+            <marker date="1514221688000" expanded="true" signature="11486:11497" ph="{}" />
+            <marker date="1514221688000" expanded="false" signature="11547:11562" ph=" { " />
+            <marker date="1514221688000" expanded="false" signature="11622:11632" ph=" }" />
+            <marker date="1514221688000" expanded="false" signature="11679:11694" ph=" { " />
+            <marker date="1514221688000" expanded="false" signature="11754:11764" ph=" }" />
+            <marker date="1514221688000" expanded="true" signature="11850:12169" ph="{...}" />
+            <marker date="1514221688000" expanded="true" signature="11893:11904" ph="{}" />
+            <marker date="1514221688000" expanded="false" signature="11954:11969" ph=" { " />
+            <marker date="1514221688000" expanded="false" signature="12025:12035" ph=" }" />
+            <marker date="1514221688000" expanded="false" signature="12082:12097" ph=" { " />
+            <marker date="1514221688000" expanded="false" signature="12153:12163" ph=" }" />
+            <marker date="1514221688000" expanded="true" signature="12251:12446" ph="{...}" />
+            <marker date="1514221688000" expanded="true" signature="12296:12307" ph="{}" />
+            <marker date="1514221688000" expanded="false" signature="12357:12372" ph=" { " />
+            <marker date="1514221688000" expanded="false" signature="12430:12440" ph=" }" />
+            <marker date="1514221688000" expanded="true" signature="12528:12723" ph="{...}" />
+            <marker date="1514221688000" expanded="true" signature="12573:12584" ph="{}" />
+            <marker date="1514221688000" expanded="false" signature="12634:12649" ph=" { " />
+            <marker date="1514221688000" expanded="false" signature="12707:12717" ph=" }" />
+            <marker date="1514221688000" expanded="true" signature="12769:13122" ph="{...}" />
+            <marker date="1514221688000" expanded="false" signature="13003:13018" ph=" { " />
+            <marker date="1514221688000" expanded="false" signature="13033:13043" ph=" }" />
+            <marker date="1514221688000" expanded="false" signature="13074:13089" ph=" { " />
+            <marker date="1514221688000" expanded="false" signature="13106:13116" ph=" }" />
+            <marker date="1514221688000" expanded="true" signature="13162:13817" ph="{...}" />
+            <marker date="1514221688000" expanded="false" signature="13698:13713" ph=" { " />
+            <marker date="1514221688000" expanded="false" signature="13728:13738" ph=" }" />
+            <marker date="1514221688000" expanded="false" signature="13769:13784" ph=" { " />
+            <marker date="1514221688000" expanded="false" signature="13801:13811" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/openapi.jar!/com/intellij/openapi/project/Project.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding>
+            <marker date="1514221688000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1514221688000" expanded="false" signature="152:486" ph="..." />
+            <marker date="1514221688000" expanded="true" signature="671:703" ph="@{...}" />
+            <marker date="1514221688000" expanded="true" signature="784:816" ph="@{...}" />
+            <marker date="1514221688000" expanded="true" signature="855:885" ph="@{...}" />
+            <marker date="1514221688000" expanded="false" signature="924:935" ph=" { " />
+            <marker date="1514221688000" expanded="false" signature="947:953" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/openapi.jar!/com/intellij/ide/util/PropertiesComponent.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="50" column="38" lean-forward="false" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
+          <folding>
+            <marker date="1514221688000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1514221688000" expanded="false" signature="145:485" ph="..." />
+            <marker date="1514221688000" expanded="true" signature="564:571" ph="{}" />
+            <marker date="1514221688000" expanded="true" signature="1164:1287" ph="{...}" />
+            <marker date="1514221688000" expanded="true" signature="1591:1697" ph="{...}" />
+            <marker date="1514221688000" expanded="true" signature="1751:1848" ph="{...}" />
+            <marker date="1514221688000" expanded="false" signature="1907:1918" ph=" { " />
+            <marker date="1514221688000" expanded="false" signature="1962:1968" ph=" }" />
+            <marker date="1514221688000" expanded="true" signature="2050:2208" ph="{...}" />
+            <marker date="1514221688000" expanded="true" signature="2268:2393" ph="{...}" />
+            <marker date="1514221688000" expanded="true" signature="2486:2977" ph="{...}" />
+            <marker date="1514221688000" expanded="true" signature="2983:3001" ph="/**...*/" />
+            <marker date="1514221688000" expanded="true" signature="3092:3220" ph="{...}" />
+            <marker date="1514221688000" expanded="true" signature="3284:3437" ph="{...}" />
+            <marker date="1514221688000" expanded="true" signature="3515:3747" ph="{...}" />
+            <marker date="1514221688000" expanded="true" signature="3753:3771" ph="/**...*/" />
+            <marker date="1514221688000" expanded="true" signature="3858:4050" ph="{...}" />
+            <marker date="1514221688000" expanded="true" signature="4112:4860" ph="{...}" />
+            <marker date="1514221688000" expanded="true" signature="4922:8127" ph="{...}" />
+            <marker date="1514221688000" expanded="true" signature="8188:8435" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gzaripov/CurrentBranchExtractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gzaripov/IssueMatcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="41" column="5" lean-forward="false" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,28 @@
+<idea-plugin>
+  <id>com.your.company.unique.plugin.id</id>
+  <name>JIRA commit message checker</name>
+  <version>0.2</version>
+  <vendor email="grigory.zaripov@avaintec.com" url="http://www.avaintec.com">Avaintec</vendor>
+
+  <description><![CDATA[
+      Checks that commit message contains reference to the same JIRA issue as branch.
+      Automatically adds reference to the JIRA Issue when commit.
+    ]]></description>
+
+  <change-notes><![CDATA[
+    ]]>
+  </change-notes>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+  <idea-version since-build="173.0"/>
+
+  <depends>com.intellij.modules.platform</depends>
+  <depends>com.intellij.modules.vcs</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <checkinHandlerFactory implementation="gzaripov.CommitMessageCheckinHandlerFactory"/>
+    <checkinHandlerFactory implementation="gzaripov.AutoAppendIssueCheckinHandlerFactory"/>
+    <projectService serviceInterface="gzaripov.conf.Configuration" serviceImplementation="gzaripov.conf.impl.ConfigurationImpl"/>
+  </extensions>
+
+</idea-plugin>
